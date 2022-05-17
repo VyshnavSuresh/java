@@ -1,0 +1,4 @@
+class cpu{
+    int price;
+	
+}
